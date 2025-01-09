@@ -26,7 +26,7 @@
 <br/>
 <hr/>
 
-## 🌟  My Leetcode account
+## 🌟  My Leetcode Profile
 ![](https://leetcard.jacoblin.cool/shiva__7?theme=dark&font=Shippori%20Antique%20B1&ext=heatmap) 
 
 <h2 align="center"> Stats </h2>
