@@ -1,9 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shivakrishna-07&label=Profile%20views&color=0e75b6&style=flat" alt="shivakrishna-07" /> </p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=blue&duration=3000&lines=Hi+There!+👋;+Myself++Shiva+Krishna!;" />
-</h1>
-
-<h3 align="center">A passionate Web developer</h3>
+<h1 align="center">Hi 👋, I'm Shiva krishna</h1>
+<h3 align="center">A passionate Full stack developer</h3>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/shivaaa07/" target="_blank">
